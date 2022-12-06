@@ -1,0 +1,36 @@
+{
+    "peliculas":[
+        {
+            "id" : 1,
+            "cartula": ,
+            "titulo" : ,
+            "descripcion" : ,
+            "genero" : ,
+            "director": ""
+        },
+        {
+            "id" : 2,
+            "cartula": ,
+            "titulo" : ,
+            "descripcion" : ,
+            "genero" : ,
+            "director": ""
+        },
+        {
+            "id" : 3,
+            "cartula": ,
+            "titulo" : ,
+            "descripcion" : ,
+            "genero" : ,
+            "director": ""
+        },
+        {
+            "id" : 4,
+            "cartula": ,
+            "titulo" : ,
+            "descripcion" : ,
+            "genero" : ,
+            "director": ""
+        }
+    ]
+}
