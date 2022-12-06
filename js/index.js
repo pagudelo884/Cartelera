@@ -10,6 +10,7 @@ async function fetMoviesJson(){
 fetMoviesJson()-TouchEvent(movies=>{
     for(let index = 0; index < movies.length; index++){
 
-        console.log(movies.peliculas[index].nombre);
+    const moviesSection = document-getElementById();
+    // console.log(movies.peliculas[index].nombre);
     };
 })
