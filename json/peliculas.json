@@ -1,6 +1,13 @@
 {
 "peliculas":[
     {
+        "id" : 5,
+        "caratula" : "https://i1.sndcdn.com/artworks-000222752415-0n310g-t500x500.jpg",
+        "titulo" : "Pride",
+        "genero" : "Soul, Hip-hop/rap",
+        "director" : "Kendrick Lamar"
+    },
+    {
         "id" : 1,
         "caratula" : "https://pics.filmaffinity.com/pulp_fiction-210382116-mmed.jpg",
         "titulo" : "Pulp Fiction",
